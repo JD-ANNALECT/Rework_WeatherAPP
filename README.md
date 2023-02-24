@@ -13,4 +13,5 @@ It fetch the <b>weather forecast data from API of user entered city.</b><hr>
 <li>Minimum Temperature</li>
 <li>Maximum Temperature</li>
 <li>Feels Like </li>
+<li>URL:http://127.0.0.1:5500/</li>
 <h1>Project developed by Jaidev singh And Amit soni </h1>
