@@ -1,0 +1,12 @@
+li.nav{
+    display: block;
+    padding: 10px;
+}
+
+#navbar{
+    height: 210px;   
+}
+
+#right{
+    float: left;
+}

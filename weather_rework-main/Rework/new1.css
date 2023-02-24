@@ -1,0 +1,14 @@
+li.nav{
+    display: block;
+    padding: 10px;
+}
+
+#navbar{
+    height: 240px;   
+}
+
+#btn{
+    margin: 5px 30px ;
+    padding: 2px 5px;
+   
+}

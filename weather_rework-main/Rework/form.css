@@ -1,0 +1,64 @@
+label {
+    font-weight: bold;
+    font-size:20px;
+    display: block;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 650px;
+    width: 350px;
+    border-radius: 23px;
+    background: linear-gradient(rgb(61, 15, 227),rgb(0, 170, 255));
+    align-items: center;
+    margin: 10px auto;
+    font-family: 'Franklin Gothic Medium';
+}
+
+input {
+    border-radius: 5px;
+    background-color: rgb(197, 219, 223);
+    padding: 2px;
+    font-size: 15px;
+}
+.h{ 
+   block-size: 30px;
+   color: black;
+   font-weight: bold;
+    cursor: pointer;
+    
+    
+}
+.r{ 
+   block-size: 30px;
+   color: black;
+   font-weight: bold;
+    cursor: pointer;
+    
+    
+}
+.r:hover{
+    background-color: red;
+}
+.h1{
+   block-size: 30px;
+   color: black;
+   font-weight: bold;
+    cursor: pointer;
+    
+    
+}
+.h:hover{
+    background-color: rgb(64, 147, 0);
+}
+.h1:hover{
+    background-color: rgb(222, 255, 32);
+}
