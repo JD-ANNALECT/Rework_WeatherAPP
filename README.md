@@ -1,5 +1,4 @@
 # Rework_WeatherAPP
-# Jaidev_Amit-Weather_App
 Weather App using Rapid API,HTML,CSS,JavaScript.
 ![rework2](https://user-images.githubusercontent.com/120723984/221107320-c28db52d-f81b-4451-90f7-0f4eca62064b.png)
 ![rework1](https://user-images.githubusercontent.com/120723984/221107336-abfe16fb-631b-4a4c-a6d7-3bc573e69008.png)
