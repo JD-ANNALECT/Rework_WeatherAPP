@@ -2,7 +2,7 @@
 Weather App using Rapid API,HTML,CSS,JavaScript.
 ![rework2](https://user-images.githubusercontent.com/120723984/221107320-c28db52d-f81b-4451-90f7-0f4eca62064b.png)
 ![rework1](https://user-images.githubusercontent.com/120723984/221107336-abfe16fb-631b-4a4c-a6d7-3bc573e69008.png)
-![rework5](https://user-images.githubusercontent.com/120723984/221108176-a75e6970-2a3b-4fcf-995d-fde01b8d73bb.png)
+![rework6](https://user-images.githubusercontent.com/120723984/221117348-466e818d-95b7-43b6-baa7-e68d7b91750c.png)
 It fetch the <b>weather forecast data from API of user entered city.</b><hr>
 <h2>Technology used:</h2>
 <ul><li><b>HTML,CSS,Javascript</b></li>
